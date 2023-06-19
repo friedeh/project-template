@@ -1,0 +1,16 @@
+{
+  "hash": "d2e91e33e18157a8c7c1878e146b4b4a",
+  "result": {
+    "markdown": "---\ntitle: \"Scientific publishing with Quarto in Medical Education\"\nauthor: Hendrik Friederichs\nmetadata-files: [_authordata.yml, _citationdata.yml]\nfilters:\n  - authors-block\n  - abstract-section\nengine: knitr\n---\n\n\n\n# Abstract\n\nThis project aims to explore the application of Quarto, an open-source publishing system, in the field of medical education. Our focus is on promoting open, reproducible research through cloud-based platforms that enable device-independent access.\n\n**Background:**\\\n[Quarto](https://quarto.org) is an open-source scientific and technical publishing system which uses Pandoc markdown for reproducible and dynamic content.\\\nThe aim of this project is to identify ways in which Quarto can be used in the field of medical education to publish scientifically.\n\n**Methods:**\\\nOur group is committed to the values of open and reproducible research. With this project we want to promote these values in the field of medical education. Our goal is open access and open materials.\n\nTo achieve these goals, this project is hosted on several platforms that support different aspects of Open Science. What these platforms have in common is that they are all cloud solutions to enable device-independent access.\n\n**Results:**\\\nWhat we have achieved in this project so far:\n\n-   We host all materials on GitLab for versioning and use GitLab Pages to host a static [project-website](https://medical-education.pages.ub.uni-bielefeld.de/research/quarto-publishing/) directly from your GitLab repository.\n\n-   We render manuscripts via [Quarto](https://quarto.org) in the [Posit Cloud](https://posit.co/products/cloud/cloud/) to publish reproducible, production quality outputs in a wide variety of formats.\n\n-   We share documents via [sciebo](https://hochschulcloud.nrw) to enable cooperation with non-data-scientists.\n\n-   We use the [Open Science Framework](https://osf.io) to facilitate science research with special tools for open project collaboration.\n\nFuture intended topics are:\n\n-   Directory structure of a project {{< fa folder >}}\n\n-   Aside-References, like [@gorlich2021using].\n\n-   Authorship\n\n-   Templates\n\n-   Identifier\n\n-   Citations\n\n-   ...\n\n**Discussion:**\n\n... in progress ... 😄\n\n\n\n# References\n\n",
+    "supporting": [
+      "quarto-publishing_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
