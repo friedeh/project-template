@@ -3,7 +3,7 @@ title: "Template"
 author: Hendrik Friederichs
 format: 
   project-template-html: default
-  date: last-modified
+date: last-modified
 bibliography: references.bib
 csl: bmc-medicine.csl
 ---
