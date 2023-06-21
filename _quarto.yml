@@ -1,4 +1,5 @@
 project:
+  title: "Template AG 7"
   render: [quarto-publishing.qmd]
   output-dir: output
 
